@@ -102,7 +102,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c12.gif" width="40" height="40"> **GitHub Analytics**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **GitHub Analytics**
 
 <div align="center">
   <table>
@@ -131,7 +131,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40"> **Featured Projects**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Featured Projects**
 
 <div align="center">
   <h3>🎵 <strong>SpotTrack Bot Ecosystem</strong> - تلگرام بات موزیک اسپاتیفای</h3>
@@ -216,7 +216,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08459d04-0824-4956-8d4f-1449ea4dd4a3.gif" width="40" height="40"> **Featured Technologies & Expertise**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Featured Technologies & Expertise**
 
 <div align="center">
   <h2>🌟 <strong>تخصص‌ها و فناوری‌های کلیدی</strong> | <strong>Key Technologies & Expertise</strong> 🌟</h2>
@@ -260,7 +260,7 @@
 </table>
 
 <div align="center">
-  <h3><img src="https://user-images.githubusercontent.com/74038190/212257472-08459d04-0824-4956-8d4f-1449ea4dd4a3.gif" width="30" height="30"> <strong>Specialized Skills</strong></h3>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30" height="30"> <strong>Specialized Skills</strong></h3>
   
   <table>
     <tr>
@@ -290,7 +290,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40"> **Achievements & Stats**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Achievements & Stats**
 
 <div align="center">
   
@@ -337,7 +337,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" height="40"> **Services & Expertise**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Services & Expertise**
 
 <div align="center">
   
@@ -380,7 +380,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌟 **What Makes Me Different**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **What Makes Me Different**
 
 <div align="center">
   
@@ -404,7 +404,7 @@
 </td>
 <td align="center">
   <h3>📈 <strong>Scalable</strong></h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08459d04-0824-4956-8d4f-1449ea4dd4a3.gif" width="48" height="48">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="48" height="48">
   <br><br>
   Building systems that grow<br>
   with your needs and handle<br>
@@ -416,12 +416,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammadHNdev&theme=radical&layout=compact&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHNdev&repo=Spottrack-bot&theme=radical&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHNdev&repo=Persian_OCR_ArvanCode&theme=radical&border_radius=15" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📬 **Let's Connect!**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Let's Connect!**
 
 <div align="center">
   <h3>Ready to collaborate? Let's build something amazing together! 🚀</h3>
@@ -475,7 +476,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 **Current Goals 2025**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Current Goals 2025**
 
 <div align="center">
   
@@ -490,7 +491,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💭 **Philosophy**
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40"> **Philosophy**
 
 <div align="center">
   
