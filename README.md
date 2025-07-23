@@ -153,14 +153,7 @@
 </td>
 <td width="50%">
 
-[![VIP Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=MohammadHNdev&repo=Spottrak-VIP-Dashboard&theme=radical&border_radius=10)](https://github.com/MohammadHNdev/Spottrak-VIP-Dashboard)
 
-**🌐 VIP Management Dashboard**
-- 📊 **Admin panel** for VIP user management
-- 💰 **Payment tracking** and subscription handling
-- 📈 **Analytics dashboard** with real-time stats
-- 🔐 **Secure authentication** and authorization
-- 📱 **Responsive design** for all devices
 
 </td>
 </tr>
@@ -202,17 +195,7 @@
 </td>
 <td width="50%">
 
-[![MotmaenBash Security](https://github-readme-stats.vercel.app/api/pin/?username=MohammadHNdev&repo=motmaenbash-data&theme=radical&border_radius=10)](https://github.com/MohammadHNdev/motmaenbash-data)
 
-**🛡️ MotmaenBash Security Enhancement**
-- 🔥 **47 vulnerabilities** discovered and fixed
-- 📈 **367% security improvement** (2.1/10 → 9.8/10)
-- 🚀 **75% performance boost** in server response
-- 🏦 **Enterprise-ready** security implementation
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
