@@ -112,16 +112,7 @@
 
 ## 🌟 Featured Projects
 
-### 🎵 SpotTrack Bot Ecosystem - تلگرام بات موزیک اسپاتیفای
 
-[![SpotTrack Bot](https://github-readme-stats.vercel.app/api/pin/?username=MohammadHNdev&repo=Spottrack-bot&theme=radical&border_radius=10)](https://github.com/MohammadHNdev/Spottrack-bot)
-
-**Features:**
-- 🎧 Download music from Spotify with high quality
-- 🔍 Advanced search and playlist extraction
-- 👥 VIP system with subscription management
-- 📊 Usage analytics and user management
-- 💳 Payment integration for premium features
 
 ### 🔍 Persian OCR - بهترین OCR فارسی رایگان
 
