@@ -4,11 +4,7 @@
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Mohammad+Hossein+Norouzi;Backend+and+Bot+Engineer;Python+Expert;Building+the+Future+with+Code"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
 
-<div align="center">
   
   
 </div>
